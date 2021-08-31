@@ -6,7 +6,8 @@ List<string> mylist = new List<string>(new string[] { "biology-1", "biology-2", 
 ConsoleKeyInfo consoleKeyInfo;
 
 Random R = new Random();
-Console.WriteLine("Press Enter key to continue | Escape key to quit");
+Console.WriteLine("Press Enter key to continue | Escape key to quit"); 
+
 
 do
 {

@@ -13,3 +13,4 @@ C:\Users\alejandrio.vasay\Documents\Visual Studio 2022\blog 2022\GetRandomElemen
 C:\Users\alejandrio.vasay\Documents\Visual Studio 2022\blog 2022\GetRandomElementFromList\obj\Debug\net6.0\ref\GetRandomElementFromList.dll
 C:\Users\alejandrio.vasay\Documents\Visual Studio 2022\blog 2022\GetRandomElementFromList\obj\Debug\net6.0\GetRandomElementFromList.pdb
 C:\Users\alejandrio.vasay\Documents\Visual Studio 2022\blog 2022\GetRandomElementFromList\obj\Debug\net6.0\GetRandomElementFromList.genruntimeconfig.cache
+C:\Users\alejandrio.vasay\Documents\Visual Studio 2022\blog 2022\GetRandomElementFromList\obj\Debug\net6.0\GetRandomElementFromList.csproj.AssemblyReference.cache
