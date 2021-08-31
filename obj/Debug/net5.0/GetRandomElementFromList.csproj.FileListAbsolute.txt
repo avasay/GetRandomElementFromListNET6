@@ -1,0 +1,5 @@
+C:\Users\alejandrio.vasay\Documents\Visual Studio 2022\blog 2022\GetRandomElementFromList\obj\Debug\net5.0\GetRandomElementFromList.csproj.AssemblyReference.cache
+C:\Users\alejandrio.vasay\Documents\Visual Studio 2022\blog 2022\GetRandomElementFromList\obj\Debug\net5.0\GetRandomElementFromList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alejandrio.vasay\Documents\Visual Studio 2022\blog 2022\GetRandomElementFromList\obj\Debug\net5.0\GetRandomElementFromList.AssemblyInfoInputs.cache
+C:\Users\alejandrio.vasay\Documents\Visual Studio 2022\blog 2022\GetRandomElementFromList\obj\Debug\net5.0\GetRandomElementFromList.AssemblyInfo.cs
+C:\Users\alejandrio.vasay\Documents\Visual Studio 2022\blog 2022\GetRandomElementFromList\obj\Debug\net5.0\GetRandomElementFromList.csproj.CoreCompileInputs.cache
